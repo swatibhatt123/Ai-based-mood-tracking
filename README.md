@@ -1,4 +1,5 @@
 ## 🌙 AI-Based Mental Wellness App – UI/UX Case Study
+### Figma prototype link- https://www.figma.com/proto/1odeNij8HduLtId3vbAMvc/Mental-Wellness-App?node-id=61-34&t=i8EFIRB586ixbcUH-1&scaling=min-zoom&content-scaling=fixed&page-id=50%3A2&starting-point-node-id=61%3A34
 
 ### Overview
 This project explores the design of a mental wellness mobile app that helps students and teens manage emotions, track mood patterns, and receive personalized AI-driven recommendations.
